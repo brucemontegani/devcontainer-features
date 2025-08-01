@@ -1,0 +1,7 @@
+{
+  "id": "pure-theme",
+  "version": "0.0.1",
+  "name": "Pure Zsh Theme",
+  "description": "Install the Pure prompt theme for Zsh.",
+  "installsAfter": ["ghcr.io/devcontainers/features/common-utils"]
+}

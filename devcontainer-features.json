@@ -1,0 +1,10 @@
+{
+  "id": "my-features",
+  "version": "0.0.1",
+  "name": "My Dev Container Features",
+  "features": {
+    "pure-theme": {
+      "path": "src/pure-theme"
+    }
+  }
+}

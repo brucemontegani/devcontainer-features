@@ -1,0 +1,16 @@
+{
+    "sourceInformation": {
+        "source": "devcontainer-cli"
+    },
+    "features": [
+        {
+            "id": "zsh-plugins",
+            "version": "1.0.0",
+            "name": "Zsh Plugins",
+            "description": "Installs Oh My Zsh plugins like autosuggestions and syntax highlighting.",
+            "installsAfter": [
+                "ghcr.io/devcontainers/features/common-utils"
+            ]
+        }
+    ]
+}
